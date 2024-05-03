@@ -65,7 +65,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=)
 
-## **🛠️ Projects**
+## **🔭 Projects**
 
 | Project                                               | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,7 +96,7 @@
 | **Deep Learning Courses**                             | My practice code while completing the courses on coursera <br> `Data Science` <br> [Code](https://github.com/geetu040/courses)                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Pacman**                                            | Pacman game implemented using tkinter in python <br> `Tkinter` <br> [Code](https://github.com/geetu040/pacman)                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-## **🔗 Find More About Me**
+## **📫 Find More About Me**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=)](https://portfolio-rho-gold.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=)](mailto:raoarmaghanshakir040@gmail.com)
@@ -105,7 +105,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=)](https://www.kaggle.com/sacrum)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=)](https://medium.com/@raoarmaghanshakir040)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=)](https://huggingface.co/geetu040)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=)](https://api.whatsapp.com/send/?phone=%2B923021505781&text&type=phone_number&app_absent=0)
 [![Fiverr](https://img.shields.io/badge/Fiverr-000000?style=for-the-badge&logo=fiverr&logoColor=)](https://www.fiverr.com/iamgeetu?up_rollout=true)
 [![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=)](https://www.upwork.com/freelancers/~01ff62dd4134b2a230?viewMode=1)
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=)](https://www.hackerrank.com/raoarmaghanshak1)
@@ -115,6 +114,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=)](https://www.youtube.com/channel/UCzVFZywEGxAzE13Wff7cyCQ)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=)](https://stackoverflow.com/users/19437938/armaghan-shakir)
 [![Credly](https://img.shields.io/badge/Credly-000000?style=for-the-badge&logo=credly&logoColor=)](https://www.credly.com/users/armaghan-shakir/badges)
+<!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=)](https://api.whatsapp.com/send/?phone=%2B923021505781&text&type=phone_number&app_absent=0) -->
 
 
 <!--
