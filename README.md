@@ -153,7 +153,6 @@ I have contributed to the following libraries
 
 [![](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=about.me)](https://portfolio-rho-gold.vercel.app/)
 [![](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raoarmaghanshakir040@gmail.com)
-[![](https://img.shields.io/badge/github-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/geetu040)
 [![](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge)](https://www.linkedin.com/in/armaghan-shakir/)
 [![](https://img.shields.io/badge/googlescholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com.pk/citations?user=iD5MG7sAAAAJ)
 [![](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sacrum)
