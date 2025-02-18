@@ -76,8 +76,8 @@ Contributed to multiple projects:
 
 I have contributed to the following libraries
 
-<!-- #### huggingface/transformers
-- [Add support for Apple's Depth-Pro](https://github.com/huggingface/transformers/pull/34583) -->
+#### huggingface/transformers
+- [Add support for Apple's Depth-Pro](https://github.com/huggingface/transformers/pull/34583)
 
 #### sktime/sktime
 - [Interface to TimesFM Forecaster](https://github.com/sktime/sktime/pull/6571)
