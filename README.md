@@ -1,8 +1,9 @@
 ## 👤 About Me
 
-<img align="right" alt="Github Stats" src="https://github-contribution-stats.vercel.app/api/?username=geetu040" height="100%" />
+<!-- <img align="right" alt="Github Stats" src="https://github-contribution-stats.vercel.app/api/?username=geetu040" height="100%" /> -->
+<img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=geetu040&show=reviews&show_icons=true&theme=tokyonight" />
 
-Hello World! 👋
+Hi 👋
 
 I am Armaghan,  
 22 years old,  
@@ -10,11 +11,10 @@ Software Engineer,
 and a Deep Learning aficionado,  
 from Pakistan.
 
-Building my foundations ...  
-Exploring open source ...
-
-liked the profile picture?  
-[get one for yourself](https://huggingface.co/spaces/geetu040/DepthPro_Colorify)
+Mostly working on  
+Machine Learning Projects  
+and learning by contributing  
+to Open-Source.
 
 <br>
 
@@ -39,19 +39,23 @@ liked the profile picture?
 
 See all experiences at [Linkedin](https://www.linkedin.com/in/armaghan-shakir/details/experience/)
 
-### Google Summer of Code @ sktime
+#### Core developer @ sktime
+
+- Working on Enhancing Deep Learning Forecasters in sktime.
+
+#### Google Summer of Code @ sktime
 
 - Contributed to [sktime](https://github.com/sktime/sktime), which provides a unified framework for various time series learning tasks.
-- Focused on integrating state-of-the-art deep learning models into sktime, utilizing PyTorch and Hugging Face.
+- Worked on integrating state-of-the-art deep learning models into sktime, utilizing PyTorch and Hugging Face.
 - Some usefull links
 	- [Project Dashboard](https://summerofcode.withgoogle.com/archive/2024/projects/f5FggiB7)
 	- [Work Submission](https://github.com/geetu040/Google-Summer-of-Code-2024-Sktime)
 	- [Contributions to sktime]()
 
-### DAAD Research Intern @ Hochschule RheinMain
+#### DAAD Research Intern @ Hochschule RheinMain
 
 - Selected for research internship at Hochschule RheinMain, Wiesbaden, Germany, under the DAAD (German Academic Exchange Service) program.
-- Focused on the research topic "Knowledge Distillation for Document Understanding" during the internship.
+- Worked on the research topic "Knowledge Distillation for Document Understanding" during the internship.
 - Contributed to collaborative research [projects](https://scholar.google.com.pk/citations?view_op=view_citation&hl=en&user=iD5MG7sAAAAJ&citation_for_view=iD5MG7sAAAAJ:u5HHmVD_uO8C).
 
 <!--
@@ -72,43 +76,48 @@ Contributed to multiple projects:
 
 I have contributed to the following libraries
 
-<!-- ### huggingface/transformers**
+<!-- #### huggingface/transformers
 - [Add support for Apple's Depth-Pro](https://github.com/huggingface/transformers/pull/34583) -->
 
-### sktime/sktime
+#### sktime/sktime
 - [Interface to TimesFM Forecaster](https://github.com/sktime/sktime/pull/6571)
 - [Pytorch Classifier & de-novo implementation of Transformer](https://github.com/sktime/sktime/pull/6791)
 - [Interface to TinyTimeMixer foundation model](https://github.com/sktime/sktime/pull/6712)
 - [De-novo implementation of LTSFTransformer](https://github.com/sktime/sktime/pull/6202)
 - [Extend HFTransformersForecaster for PEFT methods](https://github.com/sktime/sktime/pull/6457)
 
-### qdrant/qdrant-client
+#### qdrant/qdrant-client
 - [Expose Setting for GRPC Channel-Level Compression](https://github.com/qdrant/qdrant-client/pull/480)
 
-### qdrant/fastembed
+#### qdrant/fastembed
 - [Support sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://github.com/qdrant/fastembed/pull/129)
 
 <br>
 
 ## 🔥 Projects
 
-### DepthPro: Beyond Depth
+#### DepthPro: Beyond Depth
 
 - Depth Estimation model, DepthPro by Apple, experimented for Image Segmentation and Image Super Resolution.
 - Project Link: [geetu040/depthpro-beyond-depth](https://github.com/geetu040/depthpro-beyond-depth)
 
-### Pymodels
+#### Pymodels
 
 - Series of Data Science projects, where I have created Computer Vision, NLP models and Recommender Systems from scratch.
 - Project Link: [geetu040/pymodels](https://github.com/geetu040/pymodels)
 
-### Visual DSA
+#### Visual DSA
 
 - A Visual Implementation of Sorting Algorithms, Graphs and Trees.
 - App: [Netlify](https://visual-dsa.netlify.app/)
 - Code: [geetu040/visual-dsa](https://github.com/geetu040/visual-dsa)
 
-### FM Connect.AI
+#### Pixa AKS
+
+- A gallery web app that involves orchestrating communication among various microservices, deploying them onto Github Container Registry and Azure Kubernetes Service, and ultimately automating the deployment workflow using Github Actions
+- Code: [geetu040/pixa](https://github.com/geetu040/pixa)
+
+#### FM Connect.AI
 
 - End-to-End RAG pipeline with deployment on Google Cloud Platform, using Flask, Google Cloud, Pinecone, My SQL, Firestore, Filestore, Datastore, Firebase Authentication, Langchain.
 - Project Link: [Fiver Portfolio](https://www.fiverr.com/users/iamgeetu/portfolio/NjUzZWEyOTE3Y2NlZTgwMDAxYWQ2MDNi)
