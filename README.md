@@ -1,75 +1,124 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=FFFFFF)
+## 👤 About Me
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=3000&color=FFFFFF&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Armaghan+Here!;%F0%9F%A4%96+Data%2C+Machine+Learning+and+AI;%E2%98%81%EF%B8%8F+Cloud+Computing+and+Dev+Ops;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Full+Stack+Web+Development;%F0%9F%87%B5%F0%9F%87%B0+From+Pakistan!"
-    alt="Typing SVG" width="100%">
-</a>
+<img align="right" alt="Github Stats" src="https://github-contribution-stats.vercel.app/api/?username=geetu040" height="100%" />
 
-## **🛠️ Tools and Technologies**
+Hello World! 👋
 
-### *🚀 Languages*
+I am Armaghan,  
+22 years old,  
+Software Engineer,  
+and a Deep Learning aficionado,  
+from Pakistan.
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=)
+Building my foundations ...  
+Exploring open source ...
 
-### *🤖 Data and Machine Learning*
+liked the profile picture?  
+[get one for yourself](https://huggingface.co/spaces/geetu040/DepthPro_Colorify)
 
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=)
-![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=)
-![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=)
+<br>
 
-### *☁️ Cloud Computing & DevOps*
 
-![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-000000?style=for-the-badge&logo=google-cloud&logoColor=)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=)
-![Github Actions](https://img.shields.io/badge/Github%20Actions-000000?style=for-the-badge&logo=github-actions&logoColor=)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=)
-![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=)
-![Paperspace](https://img.shields.io/badge/Paperspace-000000?style=for-the-badge&logo=paperspace&logoColor=)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=)
-![cPanel](https://img.shields.io/badge/cPanel-000000?style=for-the-badge&logo=cpanel&logoColor=)
-![GCP Compute Engine](https://img.shields.io/badge/GCP%20Compute%20Engine-000000?style=for-the-badge&logo=google-cloud&logoColor=)
-![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-000000?style=for-the-badge&logo=microsoft-azure&logoColor=)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-000000?style=for-the-badge&logo=azure-functions&logoColor=)
+## 🛠️ My daily development tools
 
-### *👩‍💻 Web Development*
+<p align="start">
 
-![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=)
-![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=)
-![AJAX](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=)
-![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=)
-![Apache](https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=apache&logoColor=)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=)
-![React.js](https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=)
+<img src="https://cdn.simpleicons.org/python/3776AB" height="40"/>
+<img src="https://cdn.simpleicons.org/linux/FFFFFF" height="40"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40"/>
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40"/>
+<img src="https://cdn.simpleicons.org/lightning/792EE5" height="40"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40"/>
 
-## **🔭 Projects**
+</p>
+
+<br>
+
+## 🚀 Career Highlights
+
+See all experiences at [Linkedin](https://www.linkedin.com/in/armaghan-shakir/details/experience/)
+
+### Google Summer of Code @ sktime
+
+- Contributed to [sktime](https://github.com/sktime/sktime), which provides a unified framework for various time series learning tasks.
+- Focused on integrating state-of-the-art deep learning models into sktime, utilizing PyTorch and Hugging Face.
+- Some usefull links
+	- [Project Dashboard](https://summerofcode.withgoogle.com/archive/2024/projects/f5FggiB7)
+	- [Work Submission](https://github.com/geetu040/Google-Summer-of-Code-2024-Sktime)
+	- [Contributions to sktime]()
+
+### DAAD Research Intern @ Hochschule RheinMain
+
+- Selected for research internship at Hochschule RheinMain, Wiesbaden, Germany, under the DAAD (German Academic Exchange Service) program.
+- Focused on the research topic "Knowledge Distillation for Document Understanding" during the internship.
+- Contributed to collaborative research [projects](https://scholar.google.com.pk/citations?view_op=view_citation&hl=en&user=iD5MG7sAAAAJ&citation_for_view=iD5MG7sAAAAJ:u5HHmVD_uO8C).
+
+<!--
+
+### Research Analyst @ TUKL-NUST
+
+Contributed to multiple projects:
+- **AI and Forest Fire Mitigation**: Conducted research on AI-driven solutions to prevent and mitigate forest fires.
+- **Markaz App**: Performed data analysis and processing for an e-commerce application.
+- **Tree Counting Algorithm**: Developed an algorithm for the government to count trees using satellite imagery of Islamabad’s Margalla Hills.
+- **EEG Pathology Detection**: Involving an in-depth literature review and implementation of convolutional and recurrent neural networks for time series classification.
+
+-->
+
+<br>
+
+## 🌍 Open Source Contributions
+
+I have contributed to the following libraries
+
+<!-- ### huggingface/transformers**
+- [Add support for Apple's Depth-Pro](https://github.com/huggingface/transformers/pull/34583) -->
+
+### sktime/sktime
+- [Interface to TimesFM Forecaster](https://github.com/sktime/sktime/pull/6571)
+- [Pytorch Classifier & de-novo implementation of Transformer](https://github.com/sktime/sktime/pull/6791)
+- [Interface to TinyTimeMixer foundation model](https://github.com/sktime/sktime/pull/6712)
+- [De-novo implementation of LTSFTransformer](https://github.com/sktime/sktime/pull/6202)
+- [Extend HFTransformersForecaster for PEFT methods](https://github.com/sktime/sktime/pull/6457)
+
+### qdrant/qdrant-client
+- [Expose Setting for GRPC Channel-Level Compression](https://github.com/qdrant/qdrant-client/pull/480)
+
+### qdrant/fastembed
+- [Support sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://github.com/qdrant/fastembed/pull/129)
+
+<br>
+
+## 🔥 Projects
+
+### DepthPro: Beyond Depth
+
+- Depth Estimation model, DepthPro by Apple, experimented for Image Segmentation and Image Super Resolution.
+- Project Link: [geetu040/depthpro-beyond-depth](https://github.com/geetu040/depthpro-beyond-depth)
+
+### Pymodels
+
+- Series of Data Science projects, where I have created Computer Vision, NLP models and Recommender Systems from scratch.
+- Project Link: [geetu040/pymodels](https://github.com/geetu040/pymodels)
+
+### Visual DSA
+
+- A Visual Implementation of Sorting Algorithms, Graphs and Trees.
+- App: [Netlify](https://visual-dsa.netlify.app/)
+- Code: [geetu040/visual-dsa](https://github.com/geetu040/visual-dsa)
+
+### FM Connect.AI
+
+- End-to-End RAG pipeline with deployment on Google Cloud Platform, using Flask, Google Cloud, Pinecone, My SQL, Firestore, Filestore, Datastore, Firebase Authentication, Langchain.
+- Project Link: [Fiver Portfolio](https://www.fiverr.com/users/iamgeetu/portfolio/NjUzZWEyOTE3Y2NlZTgwMDAxYWQ2MDNi)
+
+<details>
+
+<summary>More Projects</summary>
 
 | Project                                               | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Open Source Contributions**                         | Some open source projects that I have contributed to <br> `Data Science` <br> [sktime/sktime](https://github.com/sktime/sktime/issues?q=author%3Ageetu040) - [qdrant/qdrant](https://github.com/qdrant/qdrant-client/issues?q=author%3Ageetu040) - [qdrant/fastembed](https://github.com/qdrant/fastembed/issues?q=author%3Ageetu040) - [qdarnt/examples](https://github.com/qdrant/examples/issues?q=author%3Ageetu040)                                                                                                                                                                  |
 | **Pixa AKS**                                          | Pixa is our cloud computing project. A gallery web app that involves orchestrating communication among various microservices, deploying them onto Github Container Registry and Azure Kubernetes Service, and ultimately automating the deployment workflow using Github Actions. <br> `Cloud Computing` - `Azure` - `Kubernetes` <br> [Article on the Project Architechture](https://medium.com/@raoarmaghanshakir040/from-microservices-to-the-cloud-orchestrating-and-automating-deployments-with-kubernetes-e50363ee538c) - [Project Code](https://github.com/geetu040/pixa)          |
 | **Pymodels**                                          | Series of Data Science projects, where I have created Computer Vision, NLP models and Recommender Systems from scratch <br> `Data Science` - `Pytorch` - `Tensorflow` - `Scikit-Learn` <br> [Project Demo](https://pymodels.netlify.app/) - [Project Code](https://github.com/geetu040/pymodels) - [Project APIs on Huggingface](https://huggingface.co/spaces/geetu040/pymodels) - [Amazon Reviews](https://www.kaggle.com/code/sacrum/pytorch-sentiment-analysis-on-amazon-reviews) - [Movie Reviews](https://www.kaggle.com/code/sacrum/movie-reviews-sentiment-analysis-scikit-learn) |
 | **Visual DSA**                                        | A Visual Implementation of Data Structures and Algorithms including Trees, Graph and Sorting Algorithms created in React. <br> `DSA` - `React.js` <br> [Project Demo](https://visual-dsa.netlify.app/) - [Project Code](https://github.com/geetu040/visual-dsa)                                                                                                                                                                                                                                                                                                                           |
@@ -96,38 +145,20 @@
 | **Deep Learning Courses**                             | My practice code while completing the courses on coursera <br> `Data Science` <br> [Code](https://github.com/geetu040/courses)                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Pacman**                                            | Pacman game implemented using tkinter in python <br> `Tkinter` <br> [Code](https://github.com/geetu040/pacman)                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-## **📫 Find More About Me**
+</details>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=)](https://portfolio-rho-gold.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=)](mailto:raoarmaghanshakir040@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=)](https://github.com/geetu040)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/armaghan-shakir/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=)](https://www.kaggle.com/sacrum)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=)](https://medium.com/@raoarmaghanshakir040)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=)](https://huggingface.co/geetu040)
-[![Fiverr](https://img.shields.io/badge/Fiverr-000000?style=for-the-badge&logo=fiverr&logoColor=)](https://www.fiverr.com/iamgeetu?up_rollout=true)
-[![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=)](https://www.upwork.com/freelancers/~01ff62dd4134b2a230?viewMode=1)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=)](https://www.hackerrank.com/raoarmaghanshak1)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/armaghan_shakir/)
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=)](https://www.facebook.com/armaghan040/)
-[![Google Developers](https://img.shields.io/badge/Google%20Developers-000000?style=for-the-badge&logo=google&logoColor=)](https://g.dev/armaghan)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=)](https://www.youtube.com/channel/UCzVFZywEGxAzE13Wff7cyCQ)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=)](https://stackoverflow.com/users/19437938/armaghan-shakir)
-[![Credly](https://img.shields.io/badge/Credly-000000?style=for-the-badge&logo=credly&logoColor=)](https://www.credly.com/users/armaghan-shakir/badges)
-<!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=)](https://api.whatsapp.com/send/?phone=%2B923021505781&text&type=phone_number&app_absent=0) -->
+<br>
 
+## 📫 Lets connect
 
-<!--
-**geetu040/geetu040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=about.me)](https://portfolio-rho-gold.vercel.app/)
+[![](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raoarmaghanshakir040@gmail.com)
+[![](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge)](https://www.linkedin.com/in/armaghan-shakir/)
+[![](https://img.shields.io/badge/googlescholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com.pk/citations?user=iD5MG7sAAAAJ)
+[![](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sacrum)
+[![](https://img.shields.io/badge/medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@raoarmaghanshakir040)
+[![](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/geetu040)
+[![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/iamgeetu?up_rollout=true)
+[![](https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/armaghan_shakir/)
+[![](https://img.shields.io/badge/facebook-0866FF?style=for-the-badge&logo=facebook)](https://www.facebook.com/armaghan040/)
+[![](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCzVFZywEGxAzE13Wff7cyCQ)
