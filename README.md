@@ -6,15 +6,16 @@
 Hi 👋
 
 I am Armaghan,  
-22 years old,  
-Software Engineer,  
-and a Deep Learning aficionado,  
-from Pakistan.
+Software Engineer from NUST,  
+interested in AI and Machine Learning.
 
-Mostly working on  
-Machine Learning Projects  
-and learning by contributing  
-to Open-Source.
+I work mostly in the space of  
+Computer Vision,  
+Large Language Models,  
+and AI-Agents.
+
+And sometimes, you'll find me  
+contributing to open source as well.
 
 <br>
 
@@ -39,88 +40,54 @@ to Open-Source.
 
 See all experiences at [Linkedin](https://www.linkedin.com/in/armaghan-shakir/details/experience/)
 
-#### Core developer @ sktime
+#### Machine Learning Engineer @ ecoSPECS
 
-- Working on Enhancing Deep Learning Forecasters in sktime.
+- Working under European Summer of Code (ESoC) program.
+- Automating document generation and validation in biotech/pharma domain.
+- And accelerating qualification processes for documents using AI agents and LLMs.
 
-#### Google Summer of Code @ sktime
+#### Google Summer of Code & Core developer @ Sktime
 
-- Contributed to [sktime](https://github.com/sktime/sktime), which provides a unified framework for various time series learning tasks.
-- Worked on integrating state-of-the-art deep learning models into sktime, utilizing PyTorch and Hugging Face.
-- Some usefull links
-	- [Project Dashboard](https://summerofcode.withgoogle.com/archive/2024/projects/f5FggiB7)
-	- [Work Submission](https://github.com/geetu040/Google-Summer-of-Code-2024-Sktime)
-	- [Contributions to sktime]()
+- Integrated Sktime with Deep Learning Backends (Pytorch, Huggingface, PEFT)
+- Added Pre-trained Foundation Models
+- Created 20+ Pull Requests and Reviewed 15+ Pull Requests
 
 #### DAAD Research Intern @ Hochschule RheinMain
 
-- Selected for research internship at Hochschule RheinMain, Wiesbaden, Germany, under the DAAD (German Academic Exchange Service) program.
-- Worked on the research topic "Knowledge Distillation for Document Understanding" during the internship.
-- Contributed to collaborative research [projects](https://scholar.google.com.pk/citations?view_op=view_citation&hl=en&user=iD5MG7sAAAAJ&citation_for_view=iD5MG7sAAAAJ:u5HHmVD_uO8C).
+- Selected for Research Internship under DAAD at Hochschule RheinMain
+- Researched on Knowledge Distillation Techniques for Document Understanding
+- Contributed 2 Research Publications
 
-<!--
+#### Research Intern @ TUKL-NUST
 
-### Research Analyst @ TUKL-NUST
-
-Contributed to multiple projects:
-- **AI and Forest Fire Mitigation**: Conducted research on AI-driven solutions to prevent and mitigate forest fires.
-- **Markaz App**: Performed data analysis and processing for an e-commerce application.
-- **Tree Counting Algorithm**: Developed an algorithm for the government to count trees using satellite imagery of Islamabad’s Margalla Hills.
-- **EEG Pathology Detection**: Involving an in-depth literature review and implementation of convolutional and recurrent neural networks for time series classification.
-
--->
-
-<br>
-
-## 🌍 Open Source Contributions
-
-I have contributed to the following libraries
-
-#### huggingface/transformers
-- [Add support for Apple's Depth-Pro](https://github.com/huggingface/transformers/pull/34583)
-
-#### sktime/sktime
-- [Interface to TimesFM Forecaster](https://github.com/sktime/sktime/pull/6571)
-- [Pytorch Classifier & de-novo implementation of Transformer](https://github.com/sktime/sktime/pull/6791)
-- [Interface to TinyTimeMixer foundation model](https://github.com/sktime/sktime/pull/6712)
-- [De-novo implementation of LTSFTransformer](https://github.com/sktime/sktime/pull/6202)
-- [Extend HFTransformersForecaster for PEFT methods](https://github.com/sktime/sktime/pull/6457)
-
-#### qdrant/qdrant-client
-- [Expose Setting for GRPC Channel-Level Compression](https://github.com/qdrant/qdrant-client/pull/480)
-
-#### qdrant/fastembed
-- [Support sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://github.com/qdrant/fastembed/pull/129)
+- Implemented Convolution and Recurrent Neural Networks for EEG Pathology Detection.
+- Researched AI-based fire detection and prevention
+- Led data analysis for an e-commerce platform (Markaz App)
+- Developed satellite-based tree count system for Margalla Hills (Govt. project)
 
 <br>
 
 ## 🔥 Projects
 
-#### DepthPro: Beyond Depth
+#### SlimDoc: Lightweight Distillation of Document Transformer Models
+
+- This paper introduces SlimDoc, a parameter-efficient distillation method for multimodal document transformers that achieves strong performance without labeled data, outperforming standard fine-tuning and single-stage distillation across multiple document understanding tasks.
+- Code: [marcel-lamott/SlimDoc](https://github.com/marcel-lamott/SlimDoc)
+
+#### Leveraging Distillation Techniques for Document Understanding
+
+- This paper explores distilling document understanding capabilities from ChatGPT into FLAN-T5 using labeling and curriculum learning to create a scalable, efficient alternative to resource-heavy LLMs.
+- Paper Link: [arXiv:2409.11282](https://arxiv.org/abs/2409.11282)
+
+#### Google Summer of Code @ Sktime, Code Submission
+
+- Shows usage of all the Deep Learning based models that I implemented as part of my GSoC project.
+- Code: [geetu040/Google-Summer-of-Code-2024-Sktime](https://github.com/geetu040/Google-Summer-of-Code-2024-Sktime)
+
+#### DepthPro: Beyond Depth Estimation
 
 - Depth Estimation model, DepthPro by Apple, experimented for Image Segmentation and Image Super Resolution.
 - Project Link: [geetu040/depthpro-beyond-depth](https://github.com/geetu040/depthpro-beyond-depth)
-
-#### Pymodels
-
-- Series of Data Science projects, where I have created Computer Vision, NLP models and Recommender Systems from scratch.
-- Project Link: [geetu040/pymodels](https://github.com/geetu040/pymodels)
-
-#### Visual DSA
-
-- A Visual Implementation of Sorting Algorithms, Graphs and Trees.
-- App: [Netlify](https://visual-dsa.netlify.app/)
-- Code: [geetu040/visual-dsa](https://github.com/geetu040/visual-dsa)
-
-#### Pixa AKS
-
-- A gallery web app that involves orchestrating communication among various microservices, deploying them onto Github Container Registry and Azure Kubernetes Service, and ultimately automating the deployment workflow using Github Actions
-- Code: [geetu040/pixa](https://github.com/geetu040/pixa)
-
-#### FM Connect.AI
-
-- End-to-End RAG pipeline with deployment on Google Cloud Platform, using Flask, Google Cloud, Pinecone, My SQL, Firestore, Filestore, Datastore, Firebase Authentication, Langchain.
-- Project Link: [Fiver Portfolio](https://www.fiverr.com/users/iamgeetu/portfolio/NjUzZWEyOTE3Y2NlZTgwMDAxYWQ2MDNi)
 
 <details>
 
@@ -132,6 +99,7 @@ I have contributed to the following libraries
 | **Pymodels**                                          | Series of Data Science projects, where I have created Computer Vision, NLP models and Recommender Systems from scratch <br> `Data Science` - `Pytorch` - `Tensorflow` - `Scikit-Learn` <br> [Project Demo](https://pymodels.netlify.app/) - [Project Code](https://github.com/geetu040/pymodels) - [Project APIs on Huggingface](https://huggingface.co/spaces/geetu040/pymodels) - [Amazon Reviews](https://www.kaggle.com/code/sacrum/pytorch-sentiment-analysis-on-amazon-reviews) - [Movie Reviews](https://www.kaggle.com/code/sacrum/movie-reviews-sentiment-analysis-scikit-learn) |
 | **Visual DSA**                                        | A Visual Implementation of Data Structures and Algorithms including Trees, Graph and Sorting Algorithms created in React. <br> `DSA` - `React.js` <br> [Project Demo](https://visual-dsa.netlify.app/) - [Project Code](https://github.com/geetu040/visual-dsa)                                                                                                                                                                                                                                                                                                                           |
 | **FM Connect.AI**                                     | Enables document uploads and chatbot interaction. It integrates multiple databases, APIs, and is hosted on Google Cloud Platform, using technologies like Flask, Google Cloud, and Pinecone. <br> `Cloud Computing` - `Aritificial Intelligence` - `GCP` <br> [More on Fiverr](https://www.fiverr.com/users/iamgeetu/portfolio/NjUzZWEyOTE3Y2NlZTgwMDAxYWQ2MDNi)                                                                                                                                                                                                                          |
+| **NUST Bank Chatbot**                                 | LLM-based customer support chatbot for a fictional bank, built as part of our LLM project at NUST. Uses RAG, small open-source models, and supports real-time document updates and local inference. <br> `LLMs` - `RAG` - `Chatbot` <br> [Project Code](https://github.com/geetu040/nust-bank-chatbot)                                                                                                                                                                                                                                                                                    |
 | **Book Recommendation - Graph Embeddings - DeepWalk** | Using Graph Embeddings and DeepWalk algorithm to find similar books applying collaborative filtering <br> `Data Science` - `DSA` <br> [Code](https://www.kaggle.com/code/sacrum/book-recommendation-graph-embeddings-deepwalk)                                                                                                                                                                                                                                                                                                                                                            |
 | **Covid Data Analysis**                               | I visualized and analyzed different graphs on Covid Data using advanced libraries for EDA in python <br> `Exploratory Data Analysis` <br> [Code 1](https://www.kaggle.com/code/sacrum/eda-covid-19-1) - [Code 2](https://www.kaggle.com/code/sacrum/eda-covid-19-2) - [Code 3](https://www.kaggle.com/code/sacrum/eda-covid-19-3) - [EDA Ecommerce Consumer Behaviour](https://www.kaggle.com/code/sacrum/eda-consumer-behavior-and-shopping-habits)                                                                                                                                      |
 | **Intelli Snake**                                     | The snakes uses Convolution Network based custom trained Deep Learning model to avoid obstacles (walls, blocks and its body) to find the shortest path to food. <br> `Data Science` - `Tensorflow` <br> [Project Code](https://github.com/geetu040/intelli-snake) - [Project Demo](https://intelli-snake.netlify.app/) - [Huggingface Model](https://huggingface.co/spaces/geetu040/intelli-snake)                                                                                                                                                                                        |
@@ -155,6 +123,37 @@ I have contributed to the following libraries
 | **Pacman**                                            | Pacman game implemented using tkinter in python <br> `Tkinter` <br> [Code](https://github.com/geetu040/pacman)                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 </details>
+
+<br>
+
+## 🌍 Open Source Contributions
+
+I mostly contribute state-of-the-art models to popular open-source libraries, for my understanding, and better accessibility and usability for others.
+
+#### Models I Implemented
+
+- [ huggingface/transformers ] **MiniMax-Text-01** by MiniMaxAI ( [PR](https://github.com/huggingface/transformers/pull/35831) . [Docs](https://huggingface.co/docs/transformers/en/model_doc/minimax) . [Paper](https://arxiv.org/abs/2501.08313) )
+- [ huggingface/transformers ] **DepthPro** by Apple ( [PR](https://github.com/huggingface/transformers/pull/34583) . [Docs](https://huggingface.co/docs/transformers/en/model_doc/depth_pro) . [Paper](https://arxiv.org/abs/2410.02073) )
+- [ sktime/sktime ] **TinyTimeMixer** by Granite ( [PR](https://github.com/sktime/sktime/pull/6712) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.ttm.TinyTimeMixerForecaster.html) . [Paper](https://arxiv.org/abs/2401.03955) )
+- [ sktime/sktime ] **TimesFM** by Google ( [PR](https://github.com/sktime/sktime/pull/6571) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.timesfm_forecaster.TimesFMForecaster.html) . [Paper](https://arxiv.org/abs/2310.10688) )
+- [ sktime/sktime ] **MVTSTransformerClassifier** by IBM ( [PR](https://github.com/sktime/sktime/pull/6791) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.classification.deep_learning.mvts_transformer.MVTSTransformerClassifier.html) . [Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467401) )
+- [ sktime/sktime ] **LTSFTransformerForecaster** by CureLab ( [PR](https://github.com/sktime/sktime/pull/6202) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.ltsf.LTSFTransformerForecaster.html) . [Paper](https://arxiv.org/abs/2205.13504) )
+
+#### Models I Helped Implement
+
+- [ sktime/sktime ]  **TinyTimeMixer** by Granite ( [PR](https://github.com/sktime/sktime/pull/7001) . [Docs](https://www.sktime.net/en/stable/api_reference/auto_generated/sktime.forecasting.chronos.ChronosForecaster.html) . [Paper](https://arxiv.org/abs/2403.07815) )
+- [ sktime/sktime ]  **SciNet** by Granite ( [PR](https://github.com/sktime/sktime/pull/7400) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.scinet.SCINetForecaster.html) . [Paper](https://arxiv.org/abs/2106.09305) )
+- [ sktime/sktime ]  **ES-RNN** by Granite ( [PR](https://github.com/sktime/sktime/pull/7772) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.es_rnn.ESRNNForecaster.html) . [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0169207019301153) )
+
+#### Other Fixes & Enhancements
+
+- [ huggingface/transformers ] Expose SamVisionModel ( [PR](https://github.com/huggingface/transformers/pull/36493) )
+- [ huggingface/transformers ] Fix/Refactor Sam ( [PR](https://github.com/huggingface/transformers/pull/36422) )
+- [ sktime/sktime ] PEFT methods in HFTransformersForecaster ( [PR](https://github.com/sktime/sktime/pull/6457) )
+- [ qdrant/qdrant-client ] GRPC Channel-Level Compression ( [PR](https://github.com/qdrant/qdrant-client/pull/480) )
+- [ qdrant/fastembed ] Support MiniLM-L12-v2 ( [PR](https://github.com/qdrant/fastembed/pull/129) )
+
+Find all my authored PRs and issues here: ( [huggingface/transformers](https://github.com/huggingface/transformers/issues?q=author%3Ageetu040) . [sktime/sktime](https://github.com/sktime/sktime/issues?q=author%3Ageetu040%20sort%3Acreated-asc&page=1) )
 
 <br>
 
