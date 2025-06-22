@@ -72,6 +72,7 @@ See all experiences at [Linkedin](https://www.linkedin.com/in/armaghan-shakir/de
 #### SlimDoc: Lightweight Distillation of Document Transformer Models
 
 - This paper introduces SlimDoc, a parameter-efficient distillation method for multimodal document transformers that achieves strong performance without labeled data, outperforming standard fine-tuning and single-stage distillation across multiple document understanding tasks.
+- Paper Link: [International Journal on Document Analysis and Recognition (IJDAR), 2025](https://doi.org/10.1007/s10032-025-00542-w)
 - Code: [marcel-lamott/SlimDoc](https://github.com/marcel-lamott/SlimDoc)
 
 #### Leveraging Distillation Techniques for Document Understanding
