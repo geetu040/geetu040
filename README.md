@@ -133,6 +133,7 @@ I mostly contribute state-of-the-art models to popular open-source libraries, fo
 
 #### Models I Implemented
 
+- [ huggingface/transformers ] **Deepseek-VL** by DeepseekAI ( [PR](https://github.com/huggingface/transformers/pull/36248) . [Docs](https://huggingface.co/docs/transformers/en/model_doc/deepseek_vl) . [Paper](https://arxiv.org/abs/2403.05525) )
 - [ huggingface/transformers ] **MiniMax-Text-01** by MiniMaxAI ( [PR](https://github.com/huggingface/transformers/pull/35831) . [Docs](https://huggingface.co/docs/transformers/en/model_doc/minimax) . [Paper](https://arxiv.org/abs/2501.08313) )
 - [ huggingface/transformers ] **DepthPro** by Apple ( [PR](https://github.com/huggingface/transformers/pull/34583) . [Docs](https://huggingface.co/docs/transformers/en/model_doc/depth_pro) . [Paper](https://arxiv.org/abs/2410.02073) )
 - [ sktime/sktime ] **TinyTimeMixer** by Granite ( [PR](https://github.com/sktime/sktime/pull/6712) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.ttm.TinyTimeMixerForecaster.html) . [Paper](https://arxiv.org/abs/2401.03955) )
