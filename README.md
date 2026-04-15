@@ -1,26 +1,24 @@
-## 👤 About Me
+## ⚡ Overview
 
 <!-- <img align="right" alt="Github Stats" src="https://github-contribution-stats.vercel.app/api/?username=geetu040" height="100%" /> -->
-<img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=geetu040&show=reviews&show_icons=true&theme=tokyonight" />
+<img align="right" alt="Github Stats" src="https://github-readme-stats-five-gamma-15.vercel.app/api?username=geetu040&show=reviews&show_icons=true&theme=tokyonight" />
 
 Hi 👋
 
 I am Armaghan,  
-Software Engineer from NUST,  
-interested in AI and Machine Learning.
+Software Engineer from NUST.
 
-I work mostly in the space of  
-Computer Vision,  
-Large Language Models,  
-and AI-Agents.
+Currently working as  
+ML Engineer at GC-OS-AI  
+Leading the OpenML/AIoD project.
 
-And sometimes, you'll find me  
-contributing to open source as well.
+My interests lie in  
+Deep Learning and MLOps, focused  
+on Large Language Models and AI Agents.
 
 <br>
 
-
-## 🛠️ My daily development tools
+## 🛠️ Tech Stack
 
 <p align="start">
 
@@ -36,59 +34,50 @@ contributing to open source as well.
 
 <br>
 
-## 🚀 Career Highlights
+## 🚀 Work & Contributions
 
-See all experiences at [Linkedin](https://www.linkedin.com/in/armaghan-shakir/details/experience/)
+#### 📄 Publications
 
-#### Machine Learning Engineer @ ecoSPECS
+- [ ArXiv, 2026 ] DocDjinn: Synthetic Document Generation with VLMs and Diffusion ( [Paper](https://arxiv.org/abs/2602.21824) )
+- [ IJDAR, 2025 ] SlimDoc: Lightweight Distillation of Document Transformer Models ( [Paper](https://link.springer.com/article/10.1007/s10032-025-00542-w) )
+- [ ArXiv, 2024 ] Leveraging distillation for document understanding with Flan-T5 ( [Paper](https://arxiv.org/abs/2409.11282) )
 
-- Working under European Summer of Code (ESoC) program.
-- Automating document generation and validation in biotech/pharma domain.
-- And accelerating qualification processes for documents using AI agents and LLMs.
+#### 🌍 Open Source
 
-#### Google Summer of Code & Core developer @ Sktime
+- [ huggingface/transformers ] ( [5+ Merged PRs](https://github.com/huggingface/transformers/issues?q=author%3Ageetu040) )
+- [ sktime/sktime ] ( [20+ Merged PRs](https://github.com/sktime/sktime/issues?q=author%3Ageetu040%20state%3Amerged) )
+- [ openml/openml-python ] ( [20+ Issues](https://github.com/openml/openml-python/issues?q=author%3Ageetu040%20is%3Aissue) . [50+ Code Reviews](https://github.com/openml/openml-python/issues?q=reviewed-by%3Ageetu040%20sort%3Areactions-desc) )
+- [ aiondemand/aiondemand ] ( [30+ Code Reviews](https://github.com/aiondemand/aiondemand/issues?q=reviewed-by%3Ageetu040) )
 
-- Integrated Sktime with Deep Learning Backends (Pytorch, Huggingface, PEFT)
-- Added Pre-trained Foundation Models
-- Created 20+ Pull Requests and Reviewed 15+ Pull Requests
+#### 🤖 Model Implementations
 
-#### DAAD Research Intern @ Hochschule RheinMain
+- [ huggingface/transformers ] **DeepSeek-VL** by DeepSeekAI ( [PR](https://github.com/huggingface/transformers/pull/36248) . [Docs](https://huggingface.co/docs/transformers/en/model_doc/deepseek_vl) . [Paper](https://arxiv.org/abs/2403.05525) . [Models](https://huggingface.co/collections/geetu040/deepseek-vl-684a9347b77b80e01f4b6802) )
+- [ huggingface/transformers ] **MiniMax-Text-01** by MiniMaxAI ( [PR](https://github.com/huggingface/transformers/pull/35831) . [Docs](https://huggingface.co/docs/transformers/en/model_doc/minimax) . [Paper](https://arxiv.org/abs/2501.08313) . [Models](https://huggingface.co/collections/geetu040/minimax-6860d72c740ffb1fd67d1a0c) )
+- [ huggingface/transformers ] **DepthPro** by Apple ( [PR](https://github.com/huggingface/transformers/pull/34583) . [Docs](https://huggingface.co/docs/transformers/en/model_doc/depth_pro) . [Paper](https://arxiv.org/abs/2410.02073) . [Models](https://huggingface.co/collections/geetu040/depthpro-677146e92f016f40c4f5e887) )
+- [ sktime/sktime ] **TinyTimeMixer** by Granite ( [PR](https://github.com/sktime/sktime/pull/6712) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.ttm.TinyTimeMixerForecaster.html) . [Paper](https://arxiv.org/abs/2401.03955) )
+- [ sktime/sktime ] **TimesFM** by Google ( [PR](https://github.com/sktime/sktime/pull/6571) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.timesfm_forecaster.TimesFMForecaster.html) . [Paper](https://arxiv.org/abs/2310.10688) )
+- [ sktime/sktime ] **MVTSTransformerClassifier** by IBM ( [PR](https://github.com/sktime/sktime/pull/6791) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.classification.deep_learning.mvts_transformer.MVTSTransformerClassifier.html) . [Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467401) )
+- [ sktime/sktime ] **LTSFTransformerForecaster** by CureLab ( [PR](https://github.com/sktime/sktime/pull/6202) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.ltsf.LTSFTransformerForecaster.html) . [Paper](https://arxiv.org/abs/2205.13504) )
+<!-- - [ sktime/sktime ] **SciNet** by CureLab ( [PR](https://github.com/sktime/sktime/pull/7400) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.scinet.SCINetForecaster.html) . [Paper](https://arxiv.org/abs/2106.09305) ) -->
+<!-- - [ sktime/sktime ] **ES-RNN** by Smyl et al. ( [PR](https://github.com/sktime/sktime/pull/7772) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.es_rnn.ESRNNForecaster.html) . [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0169207019301153) ) -->
+<!-- - [ sktime/sktime ] **Chronos** by Amazon ( [PR](https://github.com/sktime/sktime/pull/7001) . [Docs](https://www.sktime.net/en/stable/api_reference/auto_generated/sktime.forecasting.chronos.ChronosForecaster.html) . [Paper](https://arxiv.org/abs/2403.07815) ) -->
+<!-- - [ sktime/sktime ] **Chronos-Bolt** by Amazon ( [PR](https://github.com/sktime/sktime/pull/7718) . [Docs](https://www.sktime.net/en/stable/api_reference/auto_generated/sktime.forecasting.chronos.ChronosForecaster.html) . [Paper](https://arxiv.org/abs/2403.07815) ) -->
+<!-- - [ sktime/sktime ] **DoubleML** by Chernozhukov et al. ( [PR](https://github.com/sktime/sktime/pull/8797) . [Docs](https://www.sktime.net/en/stable/api_reference/auto_generated/sktime.forecasting.causal.DoubleMLForecaster.html) . [Paper](https://arxiv.org/abs/1608.00060) ) -->
 
-- Selected for Research Internship under DAAD at Hochschule RheinMain
-- Researched on Knowledge Distillation Techniques for Document Understanding
-- Contributed 2 Research Publications
+#### 🧩 Fixes & Enhancements
 
-#### Research Intern @ TUKL-NUST
+- [ openml/openml-python ] V1 → V2 API Migration - Core Structure ( [PR](https://github.com/openml/openml-python/pull/1576) )
+- [ huggingface/transformers ] Expose SamVisionModel ( [PR](https://github.com/huggingface/transformers/pull/36493) )
+- [ huggingface/transformers ] Fix/Refactor Sam ( [PR](https://github.com/huggingface/transformers/pull/36422) )
+- [ sktime/sktime ] PEFT methods in HFTransformersForecaster ( [PR](https://github.com/sktime/sktime/pull/6457) )
+- [ qdrant/qdrant-client ] GRPC Channel-Level Compression ( [PR](https://github.com/qdrant/qdrant-client/pull/480) )
+- [ qdrant/fastembed ] Support MiniLM-L12-v2 ( [PR](https://github.com/qdrant/fastembed/pull/129) )
 
-- Implemented Convolution and Recurrent Neural Networks for EEG Pathology Detection.
-- Researched AI-based fire detection and prevention
-- Led data analysis for an e-commerce platform (Markaz App)
-- Developed satellite-based tree count system for Margalla Hills (Govt. project)
+#### 📦 Projects
 
-<br>
-
-## 🔥 Projects
-
-#### SlimDoc: Lightweight Distillation of Document Transformer Models
-
-- This paper introduces SlimDoc, a parameter-efficient distillation method for multimodal document transformers that achieves strong performance without labeled data, outperforming standard fine-tuning and single-stage distillation across multiple document understanding tasks.
-- Paper Link: [International Journal on Document Analysis and Recognition (IJDAR), 2025](https://doi.org/10.1007/s10032-025-00542-w)
-- Code: [marcel-lamott/SlimDoc](https://github.com/marcel-lamott/SlimDoc)
-
-#### Leveraging Distillation Techniques for Document Understanding
-
-- This paper explores distilling document understanding capabilities from ChatGPT into FLAN-T5 using labeling and curriculum learning to create a scalable, efficient alternative to resource-heavy LLMs.
-- Paper Link: [arXiv:2409.11282](https://arxiv.org/abs/2409.11282)
-
-#### Google Summer of Code @ Sktime, Code Submission
-
-- Shows usage of all the Deep Learning based models that I implemented as part of my GSoC project.
-- Code: [geetu040/Google-Summer-of-Code-2024-Sktime](https://github.com/geetu040/Google-Summer-of-Code-2024-Sktime)
-
-#### DepthPro: Beyond Depth Estimation
-
-- Depth Estimation model, DepthPro by Apple, experimented for Image Segmentation and Image Super Resolution.
-- Project Link: [geetu040/depthpro-beyond-depth](https://github.com/geetu040/depthpro-beyond-depth)
+- [ geetu040/Google-Summer-of-Code-2024-Sktime ] Sktime + DL backends (PyTorch, HF, PEFT) ( [Code](https://github.com/geetu040/Google-Summer-of-Code-2024-Sktime) )
+- [ geetu040/depthpro-beyond-depth ] DepthPro extended to Segmentation & Super-Resolution ( [Code](https://github.com/geetu040/depthpro-beyond-depth) )
+- [ geetu040/pixa ] Kubernetes-based microservices gallery ( [Code](https://github.com/geetu040/pixa) )
 
 <details>
 
@@ -98,6 +87,7 @@ See all experiences at [Linkedin](https://www.linkedin.com/in/armaghan-shakir/de
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Pixa AKS**                                          | Pixa is our cloud computing project. A gallery web app that involves orchestrating communication among various microservices, deploying them onto Github Container Registry and Azure Kubernetes Service, and ultimately automating the deployment workflow using Github Actions. <br> `Cloud Computing` - `Azure` - `Kubernetes` <br> [Article on the Project Architechture](https://medium.com/@raoarmaghanshakir040/from-microservices-to-the-cloud-orchestrating-and-automating-deployments-with-kubernetes-e50363ee538c) - [Project Code](https://github.com/geetu040/pixa)          |
 | **Pymodels**                                          | Series of Data Science projects, where I have created Computer Vision, NLP models and Recommender Systems from scratch <br> `Data Science` - `Pytorch` - `Tensorflow` - `Scikit-Learn` <br> [Project Demo](https://pymodels.netlify.app/) - [Project Code](https://github.com/geetu040/pymodels) - [Project APIs on Huggingface](https://huggingface.co/spaces/geetu040/pymodels) - [Amazon Reviews](https://www.kaggle.com/code/sacrum/pytorch-sentiment-analysis-on-amazon-reviews) - [Movie Reviews](https://www.kaggle.com/code/sacrum/movie-reviews-sentiment-analysis-scikit-learn) |
+| **LLM Blindspots**                                    | Evaluate Qwen3.5‑0.8B‑Base on FuseChat‑Mixture using a lightweight pipeline to generate responses, measure semantic similarity, compare sources, and identify blind spots. <br> `Large Language Models` - `Transformers` <br> [Dataset](https://huggingface.co/datasets/geetu040/llm-blindspots) - [Code](https://colab.research.google.com/drive/1fPJCYuKRpbgdyxpKntqmCTapiGv614PI?usp=sharing)                                                                                                                                                                                          |
 | **Visual DSA**                                        | A Visual Implementation of Data Structures and Algorithms including Trees, Graph and Sorting Algorithms created in React. <br> `DSA` - `React.js` <br> [Project Demo](https://visual-dsa.netlify.app/) - [Project Code](https://github.com/geetu040/visual-dsa)                                                                                                                                                                                                                                                                                                                           |
 | **FM Connect.AI**                                     | Enables document uploads and chatbot interaction. It integrates multiple databases, APIs, and is hosted on Google Cloud Platform, using technologies like Flask, Google Cloud, and Pinecone. <br> `Cloud Computing` - `Aritificial Intelligence` - `GCP` <br> [More on Fiverr](https://www.fiverr.com/users/iamgeetu/portfolio/NjUzZWEyOTE3Y2NlZTgwMDAxYWQ2MDNi)                                                                                                                                                                                                                          |
 | **NUST Bank Chatbot**                                 | LLM-based customer support chatbot for a fictional bank, built as part of our LLM project at NUST. Uses RAG, small open-source models, and supports real-time document updates and local inference. <br> `LLMs` - `RAG` - `Chatbot` <br> [Project Code](https://github.com/geetu040/nust-bank-chatbot)                                                                                                                                                                                                                                                                                    |
@@ -124,51 +114,3 @@ See all experiences at [Linkedin](https://www.linkedin.com/in/armaghan-shakir/de
 | **Pacman**                                            | Pacman game implemented using tkinter in python <br> `Tkinter` <br> [Code](https://github.com/geetu040/pacman)                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 </details>
-
-<br>
-
-## 🌍 Open Source Contributions
-
-I mostly contribute state-of-the-art models to popular open-source libraries, for my understanding, and better accessibility and usability for others.
-
-#### Models I Implemented
-
-- [ huggingface/transformers ] **Deepseek-VL** by DeepseekAI ( [PR](https://github.com/huggingface/transformers/pull/36248) . [Docs](https://huggingface.co/docs/transformers/en/model_doc/deepseek_vl) . [Paper](https://arxiv.org/abs/2403.05525) . [Models](https://huggingface.co/collections/geetu040/deepseek-vl-684a9347b77b80e01f4b6802) )
-- [ huggingface/transformers ] **MiniMax-Text-01** by MiniMaxAI ( [PR](https://github.com/huggingface/transformers/pull/35831) . [Docs](https://huggingface.co/docs/transformers/en/model_doc/minimax) . [Paper](https://arxiv.org/abs/2501.08313) . [Models](https://huggingface.co/collections/geetu040/minimax-6860d72c740ffb1fd67d1a0c) )
-- [ huggingface/transformers ] **DepthPro** by Apple ( [PR](https://github.com/huggingface/transformers/pull/34583) . [Docs](https://huggingface.co/docs/transformers/en/model_doc/depth_pro) . [Paper](https://arxiv.org/abs/2410.02073) . [Models](https://huggingface.co/collections/geetu040/depthpro-677146e92f016f40c4f5e887) )
-- [ sktime/sktime ] **TinyTimeMixer** by Granite ( [PR](https://github.com/sktime/sktime/pull/6712) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.ttm.TinyTimeMixerForecaster.html) . [Paper](https://arxiv.org/abs/2401.03955) )
-- [ sktime/sktime ] **TimesFM** by Google ( [PR](https://github.com/sktime/sktime/pull/6571) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.timesfm_forecaster.TimesFMForecaster.html) . [Paper](https://arxiv.org/abs/2310.10688) )
-- [ sktime/sktime ] **MVTSTransformerClassifier** by IBM ( [PR](https://github.com/sktime/sktime/pull/6791) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.classification.deep_learning.mvts_transformer.MVTSTransformerClassifier.html) . [Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467401) )
-- [ sktime/sktime ] **LTSFTransformerForecaster** by CureLab ( [PR](https://github.com/sktime/sktime/pull/6202) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.ltsf.LTSFTransformerForecaster.html) . [Paper](https://arxiv.org/abs/2205.13504) )
-
-#### Models I Helped Implement
-
-- [ sktime/sktime ]  **TinyTimeMixer** by Granite ( [PR](https://github.com/sktime/sktime/pull/7001) . [Docs](https://www.sktime.net/en/stable/api_reference/auto_generated/sktime.forecasting.chronos.ChronosForecaster.html) . [Paper](https://arxiv.org/abs/2403.07815) )
-- [ sktime/sktime ]  **SciNet** by Granite ( [PR](https://github.com/sktime/sktime/pull/7400) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.scinet.SCINetForecaster.html) . [Paper](https://arxiv.org/abs/2106.09305) )
-- [ sktime/sktime ]  **ES-RNN** by Granite ( [PR](https://github.com/sktime/sktime/pull/7772) . [Docs](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.es_rnn.ESRNNForecaster.html) . [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0169207019301153) )
-
-#### Other Fixes & Enhancements
-
-- [ huggingface/transformers ] Expose SamVisionModel ( [PR](https://github.com/huggingface/transformers/pull/36493) )
-- [ huggingface/transformers ] Fix/Refactor Sam ( [PR](https://github.com/huggingface/transformers/pull/36422) )
-- [ sktime/sktime ] PEFT methods in HFTransformersForecaster ( [PR](https://github.com/sktime/sktime/pull/6457) )
-- [ qdrant/qdrant-client ] GRPC Channel-Level Compression ( [PR](https://github.com/qdrant/qdrant-client/pull/480) )
-- [ qdrant/fastembed ] Support MiniLM-L12-v2 ( [PR](https://github.com/qdrant/fastembed/pull/129) )
-
-Find all my authored PRs and issues here: ( [huggingface/transformers](https://github.com/huggingface/transformers/issues?q=author%3Ageetu040) . [sktime/sktime](https://github.com/sktime/sktime/issues?q=author%3Ageetu040%20sort%3Acreated-asc&page=1) )
-
-<br>
-
-## 📫 Lets connect
-
-[![](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=about.me)](https://portfolio-rho-gold.vercel.app/)
-[![](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raoarmaghanshakir040@gmail.com)
-[![](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge)](https://www.linkedin.com/in/armaghan-shakir/)
-[![](https://img.shields.io/badge/googlescholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com.pk/citations?user=iD5MG7sAAAAJ)
-[![](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sacrum)
-[![](https://img.shields.io/badge/medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@raoarmaghanshakir040)
-[![](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/geetu040)
-[![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/iamgeetu?up_rollout=true)
-[![](https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/armaghan_shakir/)
-[![](https://img.shields.io/badge/facebook-0866FF?style=for-the-badge&logo=facebook)](https://www.facebook.com/armaghan040/)
-[![](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCzVFZywEGxAzE13Wff7cyCQ)
