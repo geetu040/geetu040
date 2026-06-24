@@ -14,13 +14,14 @@ Hi 👋
 I am Armaghan,  
 Software Engineer from NUST.
 
-Currently working as  
-ML Engineer at GC-OS-AI  
-Leading the OpenML/AIoD project.
+Currently working in sktime,  
+bringing foundation models to the ecosystem,  
+with better fine-tuning and cloud-native workflows.
 
 My interests lie in  
 Deep Learning and MLOps, focused  
-on Large Language Models and AI Agents.
+on Time-Series, Large Language Models,  
+and AI Agents.
 
 <br>
 
