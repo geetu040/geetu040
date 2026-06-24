@@ -1,7 +1,13 @@
 ## ⚡ Overview
 
+<!-- LordDashMe/github-contribution-stats -->
 <!-- <img align="right" alt="Github Stats" src="https://github-contribution-stats.vercel.app/api/?username=geetu040" height="100%" /> -->
-<img align="right" alt="Github Stats" src="https://github-readme-stats-five-gamma-15.vercel.app/api?username=geetu040&show=reviews&show_icons=true&theme=tokyonight" />
+
+<!-- geetu-assist/github-readme-stats -->
+<!-- <img align="right" alt="Github Stats" src="https://github-readme-stats-five-gamma-15.vercel.app/api?username=geetu040&show=reviews&show_icons=true&theme=tokyonight" /> -->
+
+<!-- anuraghazra/github-readme-stats -->
+<img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=geetu040&show=reviews&show_icons=true&theme=tokyonight" />
 
 Hi 👋
 
