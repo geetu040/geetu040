@@ -9,7 +9,7 @@
 <!-- anuraghazra/github-readme-stats -->
 <!-- <img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=geetu040&show=reviews&show_icons=true&theme=tokyonight" /> -->
 
-<!-- stats-organization/github-stats-extended: generated daily by .github/workflows/readme-stats.yml -->
+<!-- stats-organization/github-readme-stats-action -->
 <img align="right" alt="Github Stats" src="./profile/stats.svg" />
 
 Hi 👋
