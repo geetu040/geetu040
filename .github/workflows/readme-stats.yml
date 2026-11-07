@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&show=reviews
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&show=reviews,prs_merged_percentage&include_all_commits=True
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
