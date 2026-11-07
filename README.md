@@ -48,7 +48,7 @@ and AI Agents.
 
 #### 📄 Publications
 
-- [ ArXiv, 2026 ] DocDjinn: Synthetic Document Generation with VLMs and Diffusion ( [Paper](https://arxiv.org/abs/2602.21824) )
+- [ IJDAR, 2026 ] DocDjinn: Synthetic Document Generation with VLMs and Diffusion ( [Paper](https://link.springer.com/article/10.1007/s10032-026-00604-7) )
 - [ IJDAR, 2025 ] SlimDoc: Lightweight Distillation of Document Transformer Models ( [Paper](https://link.springer.com/article/10.1007/s10032-025-00542-w) )
 - [ ArXiv, 2024 ] Leveraging distillation for document understanding with Flan-T5 ( [Paper](https://arxiv.org/abs/2409.11282) )
 
